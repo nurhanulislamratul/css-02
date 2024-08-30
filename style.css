@@ -1,0 +1,124 @@
+* {
+  margin: 20px;
+}
+img {
+  border: 5px solid tomato;
+
+  padding: 20px;
+  /* opacity: 0.15; */
+  /* filter: invert(10%); */
+  filter: hue-rotate(90deg);
+  /* grayscale();
+  blur();
+  brightness();
+  contrast();
+  invert();
+  saturate();
+  hue-rotate(90deg) */
+}
+
+/* css font  */
+
+/* /* h1 {
+  /* text-decoration: overline; */
+/* text-decoration: underline; */
+/* text-decoration: line-through; */
+/* text-decoration: overline underline; }*/
+
+/* h1 {
+  /* text-align: center; */
+/* text-align: end; */
+/* text-align: left; */
+/* text-align: justify; */
+/* text-align: right; */
+/* text-align: start;} */
+
+/* h1 {
+  /* text-transform: capitalize; */
+/* text-transform: uppercase; */
+/* text-transform: lowercase; */
+/* text-transform: none; }*/
+
+/* h1 {
+  letter-spacing: 10px;
+} */
+/* h1 {
+  line-height: 3.4;
+} */
+
+/* h1 {
+  text-shadow: 8px 1px 3px rgba(26, 95, 199, 0.6);
+} */
+
+h1:hover {
+  color: red;
+}
+/* 
+P {
+  width: 200px;
+  height: 300px;
+  text-align: center;
+  padding: 80px;
+  border: 10px solid tomato;
+} */
+
+#p1 {
+  border: 2px solid purple;
+  padding: 15px 30px 25px 50px;
+}
+#p2 {
+  border: 2px solid red;
+  margin: 15px 30px 25px 50px;
+  color: white;
+}
+
+#p1:hover {
+  color: red;
+  /* cursor: pointer; */
+  /* cursor: alias; */
+  /* cursor: auto; */
+  /* cursor: all-scroll; */
+  /* cursor: col-resize; */
+  /* cursor: move; */
+  /* cursor: default; */
+  /* cursor: help; */
+  /* cursor: no-drop; */
+  /* cursor: zoom-in; */
+  /* cursor: zoom-out; */
+  /* cursor: progress; */
+  /* cursor: not-allowed; */
+}
+#p2:hover {
+  background-color: purple;
+}
+
+/* css cursor  */
+/* cursor: pointer; */
+/* cursor: alias; */
+/* cursor: auto; */
+/* cursor: all-scroll; */
+/* cursor: col-resize; */
+/* cursor: move; */
+/* cursor: default; */
+/* cursor: help; */
+/* cursor: no-drop; */
+/* cursor: zoom-in; */
+/* cursor: zoom-out; */
+/* cursor: progress; */
+/* cursor: not-allowed; */
+
+/* css list style  */
+.ul1 {
+  /* list-style-type: disc; */
+  /* list-style-type: circle; */
+  /* list-style-type: square; */
+  /* list-style-type: none; */
+}
+.ul2 {
+  /* list-style-type: decimal; */
+  /* list-style-type: decimal-leading-zero; */
+  /* list-style-type: lower-roman; */
+  /* list-style-type: upper-roman; */
+  /* list-style-type: lower-alpha; */
+  /* list-style-type: upper-alpha; */
+}
